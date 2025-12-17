@@ -1,14 +1,14 @@
 import java.util.Scanner;
 
-public class ReverseIntegerProgram {
+public class Reverse_integer {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Taking Input
+        // Taking input
         System.out.print("Enter an integer: ");
         int x = sc.nextInt();
 
-        Solution obj = new Solution();
+        ReverseSolution obj = new ReverseSolution();
         int result = obj.reverse(x);
 
         // Show the result
@@ -16,7 +16,7 @@ public class ReverseIntegerProgram {
     }
 }
 
-class Solution {
+class ReverseSolution {
     public int reverse(int x) {
         int rem = 0;
         int value = 0;
@@ -24,7 +24,7 @@ class Solution {
         while (x != 0) {
             rem = x % 10;
 
-            // check the overflow
+            // check overflow
             if (value > Integer.MAX_VALUE / 10 || value < Integer.MIN_VALUE / 10) {
                 return 0;
             }
