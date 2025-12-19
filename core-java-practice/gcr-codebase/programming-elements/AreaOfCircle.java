@@ -1,6 +1,6 @@
 import java.util.Scanner; // Import Scanner for input
 
-public class Area_of_circle {
+public class AreaOfCircle {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in); 

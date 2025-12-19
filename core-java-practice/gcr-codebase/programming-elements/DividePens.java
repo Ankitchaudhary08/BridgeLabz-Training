@@ -1,4 +1,4 @@
-public class Divide_Pens {
+public class DividePens {
     public static void main(String[] args) {
 
         int pens = 14;   //  pens
