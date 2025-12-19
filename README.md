@@ -1,67 +1,18 @@
-📅 Day 1 – GitHub Setup & Basics
+Week 1: GitHub Setup and Java Core Basics
 
-🛠️ Getting started with version control
+17-Dec-2025 (Wednesday):
+Installed Git on the system and created a GitHub account.
+Learned the basics of Git and GitHub.
+Practiced basic Git commands such as git init, git status, and git add.
 
-✅ What I learned:
+18-Dec-2025 (Thursday):
+Created repositories on GitHub.
+Connected local repository to remote repository.
+Practiced Git commands like commit, push, pull, clone, and branch.
+Understood version control and repository management.
 
-Created a GitHub account
-Installed Git on my system
-Understood what Git & GitHub are
-Learned basic Git workflow
-
-🔑 Commands Practiced:
-git init
-git status
-git add .
-git commit -m "first commit"
-
-
-🎯 Outcome:
-I can now create repositories and push code to GitHub confidently.
-
-📅 Day 2 – Git Commands & Repository Management
-
-📂 Working with repositories
-
-✅ What I learned:
-
-Creating repositories on GitHub
-Connecting local repo to remote repo
-Pushing and pulling code
-Understanding commits and history
-
-🔑 Commands Practiced:
-git clone
-git branch
-git checkout
-git push
-git pull
-
-
-🎯 Outcome:
-I can manage repositories and track code changes properly.
-
-📅 Day 3 – Java Core Practice
-
-☕ Strengthening programming fundamentals
-
-✅ What I practiced:
-
-Java basics (syntax & structure)
-Input/Output using Scanner
-Conditional statements
-
-Loops
-
-Basic problem-solving questions
-
-🧠 Focus Areas:
-
-Logic building
-
-Clean and readable code
-
-Understanding core concepts deeply
-
-🎯 Outcome:
-My Java fundamentals are getting stronger and I feel more confident solving problems.
+19-Dec-2025 (Friday):
+Practiced Java core concepts to strengthen fundamentals.
+Solved basic Java problems using conditions and loops.
+Worked with input/output using Scanner.
+Focused on improving logic building and clean coding.
