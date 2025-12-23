@@ -58,20 +58,44 @@
 ---
 
 ## 📅 20-Dec-2025 (Saturday)
-### 🌍 Scenario-Based Problem Solving
-- 🧠 Solved **real-world scenario-based Java problems**
-- 📤 Pushed all solutions to GitHub
+### 🌍 Scenario-Based & Java Arrays
+- Solved **scenario-based Java problems**
+- Practiced **Java Arrays** (1D, 2D, loops, length)
+- Completed **Arrays Lab Practice (Level 1 & 2)**
+- Followed **best programming practices**
+- Pushed code to **GitHub**
+
 
 🔗 **Scenario-Based Programs:**  
 👉 [scenario-based](https://github.com/Ankitchaudhary08/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
+
+🔗 **Arrays-Based Programs:**
+👉 [Array-](https://github.com/Ankitchaudhary08/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
 
 ---
 
 ## ✨ Week 1 Highlights
-- ✔️ Strong understanding of **Git & GitHub workflow**
-- ✔️ Improved **Core Java fundamentals**
-- ✔️ Hands-on experience with **control flow & logic building**
-- ✔️ Consistent daily coding & GitHub commits  
+- ✔️ Hands-on experience with **Git & GitHub workflow** (add, commit, push, pull)
+- ✔️ Built a strong foundation in **Core Java basics**
+- ✔️ Practiced **control flow** through Level 1–3 problems
+- ✔️ Gained practical understanding of **Java Arrays (1D & 2D)** via lab exercises
+- ✔️ Improved **problem-solving and logic-building** through daily practice
+- ✔️ Maintained **consistent GitHub commits**
+
+
+## 📅 21-Dec-2025 (Sunday)
+### 🧵 Java Strings & Exceptions
+- Practiced **Java Strings** (creation, input, methods, arrays)
+- Learned **escape sequences** and **ASCII codes**
+- Studied **Java Exceptions** (checked & unchecked)
+- Completed **String Lab Practice (Level 1–3)**
+- Pushed code to **GitHub**
+
+- 🔗 **String-Based Programs:**
+👉 [String-](https://github.com/Ankitchaudhary08/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
+
+ 
 
 
