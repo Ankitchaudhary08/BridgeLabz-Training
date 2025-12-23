@@ -82,9 +82,11 @@
 - ✔️ Gained practical understanding of **Java Arrays (1D & 2D)** via lab exercises
 - ✔️ Improved **problem-solving and logic-building** through daily practice
 - ✔️ Maintained **consistent GitHub commits**
+---
 
 
-## 📅 21-Dec-2025 (Sunday)
+
+## 📅 22-Dec-2025 (Monday)
 ### 🧵 Java Strings & Exceptions
 - Practiced **Java Strings** (creation, input, methods, arrays)
 - Learned **escape sequences** and **ASCII codes**
