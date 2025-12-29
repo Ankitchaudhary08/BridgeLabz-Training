@@ -98,6 +98,77 @@
 👉 [String-](https://github.com/Ankitchaudhary08/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
 
+---
+
+## 📅 23-Dec-2025 (Tuesday)
+### 🌍 Scenario-Based Java Programs
+- Practiced **scenario-based Java problems**
+- Used **if-else conditions and loops**
+- Focused on **real-life problem solving**
+- Wrote clean and readable **Core Java code**
+- Pushed code to **GitHub**
+
+- 🔗 **Scenario-Based Programs:**
+👉 https://github.com/Ankitchaudhary08/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
+
+
+---
+
+## 📅 24-Dec-2025 (Wednesday)
+### 🧩 Methods & Logic Building
+- Practiced **method-based problems**:
+  - Method parameters
+  - Return types
+- Improved understanding of **method calls and reusability**
+- Strengthened **logical thinking** using modular coding approach
+- Solved problems using **multiple methods** for better structure
+- Focused on writing **clean and reusable code**
+
+-  🔗 **Methods & Logic Building:**
+👉 https://github.com/Ankitchaudhary08/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods
+
+
+
+---
+
+## 📅 25-Dec-2025 (Thursday)
+### 🔤 Strings & Functions
+- Practiced **string handling concepts**
+- Solved string problems without using built-in methods:
+  - Vowel & consonant count
+  - String reversal
+- Implemented advanced string logic:
+  - Palindrome check
+  - Duplicate character removal
+  - Substring count
+  - Case toggling
+  - Anagram check
+  - String comparison
+- Improved **string traversal** and method usage with parameters & return values
+
+-  🔗 ** extra Strings & Function Problem:**
+👉 https://github.com/Ankitchaudhary08/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
+
+
+---
+
+## 📅 26-Dec-2025 (Friday)
+### 🔁 Control Flow, Loops & Built-in Methods (Scenario-Based)
+- Solved **scenario-based problems**:
+  - Bus Route Distance Tracker using `while` loop and conditions
+  - Festival Lucky Draw using modulus operator and input validation
+- Practiced looping for **multiple users/entries** with proper exit conditions
+- Worked on **built-in method–based problems** for cleaner logic
+- Improved understanding of **real-world problem modeling** using control flow and functions
+
+-  🔗 **Scenario-Based Problem:**
+👉 https://github.com/Ankitchaudhary08/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
+
+-  🔗 **extra Built In Function problem:**
+👉 https://github.com/Ankitchaudhary08/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
+
+
+
  
 
 
