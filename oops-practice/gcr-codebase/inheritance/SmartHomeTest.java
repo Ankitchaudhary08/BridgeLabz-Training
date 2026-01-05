@@ -42,3 +42,8 @@ public class SmartHomeTest {
         t2.displayStatus();
     }
 }
+
+
+
+
+
