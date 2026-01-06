@@ -165,10 +165,77 @@
 👉 https://github.com/Ankitchaudhary08/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
 
 -  🔗 **extra Built In Function problem:**
-👉 https://github.com/Ankitchaudhary08/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
 
 
+### 🟦 WEEK 3 (SCENARIO-BASED PROBLEMS & OOPS CONCEPTS)
 
+### 🗓️ 29 December 2025  
+**Focus:** Scenario-Based Problems & Logic Building
+
+- 🌍 Solved real-world scenario-based problems to strengthen logical thinking  
+- 💼 Implemented Employability Wage Computation use cases  
+- 📐 Practiced Line Comparison problems using object-oriented concepts  
+
+---
+
+### 🗓️ 30 December 2025  
+**Focus:** Scenario-Based Problems & Logic Building
+
+- 🎲 Solved the Snake and Ladder game scenario using loops, conditionals, and randomization  
+- 🎯 Implemented game logic ensuring exact win conditions and move validation  
+- 🧩 Practiced introductory OOPS concepts through scenario-based problem solving
+
+ --- 
+
+ ### 🗓️ 31 December 2025  
+**Focus:** Methods and Objects  
+
+- 🧱 Learned how classes and objects model real-world entities  
+- 🔧 Practiced creating and invoking methods with parameters and return values  
+- 🔁 Solved basic programs using objects and method calls to improve OOP understanding  
+- 🧠 Gained clarity on object state and behavior through hands-on questions  
+
+ ---
  
+ ### 🗓️ 1 January 2026  
+**Focus:** Constructors and Keywords  
 
+- 🏗️ Solved problems on constructors, including default and parameterized constructors  
+- 🔗 Practiced constructor chaining to understand object initialization flow  
+- 🧭 Worked with `this` keyword to differentiate instance variables and parameters  
+- ⚙️ Explored `static` members and understood their behavior across objects
+
+---
+
+### 🗓️ 2 January 2026  
+**Focus:** Classes, Objects, and Diagrams  
+
+- 🧱 Practiced designing **classes and objects** to model real-world entities  
+- 📐 Created **class–object diagrams** to visualize structure and relationships  
+- 🧩 Solved **scenario-based questions** by identifying attributes, methods, and object interactions  
+- 🔍 Improved understanding of object instantiation and collaboration within a system  
+
+---
+
+### 🗓️ 3 January 2026  
+**Focus:** Inheritance  
+
+- 🌳 Solved problems based on **inheritance** (IS-A relationship)  
+- 🧬 Practiced using `extends` to reuse properties and methods from parent classes  
+- 🧩 Solved **two scenario-based questions** involving superclass–subclass modeling  
+- 🔁 Improved understanding of method reuse and hierarchy-based design
+
+---
+
+### 🟦 WEEK 4 (OOPS SCENARIO-BASED PRACTICE)
+
+### 🗓️ 29 Dec 2025 – 5 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world OOPS scenario-based problems** using Java  
+- 🧱 Applied **abstraction, inheritance, encapsulation, and interfaces** in practical use cases  
+- 🔁 Strengthened understanding of **polymorphism** through dynamic method behavior  
+- 📌 Improved confidence in designing **structured and logic-driven Java programs**
+
+---
 
