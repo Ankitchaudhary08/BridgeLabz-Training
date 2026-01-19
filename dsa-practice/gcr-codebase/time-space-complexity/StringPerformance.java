@@ -10,7 +10,7 @@ public class StringPerformance {
 
         long start, end;
 
-        // 1️⃣ Using String (O(N^2))
+        // 1️ Using String (O(N^2))
         start = System.currentTimeMillis();
         String str = "";
         for (int i = 0; i < n; i++) {
@@ -19,7 +19,7 @@ public class StringPerformance {
         end = System.currentTimeMillis();
         System.out.println("String Time: " + (end - start) + " ms");
 
-        // 2️⃣ Using StringBuilder (O(N))
+        // 2️ Using StringBuilder (O(N))
         start = System.currentTimeMillis();
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < n; i++) {
@@ -28,7 +28,7 @@ public class StringPerformance {
         end = System.currentTimeMillis();
         System.out.println("StringBuilder Time: " + (end - start) + " ms");
 
-        // 3️⃣ Using StringBuffer (O(N))
+        // 3️ Using StringBuffer (O(N))
         start = System.currentTimeMillis();
         StringBuffer sf = new StringBuffer();
         for (int i = 0; i < n; i++) {

@@ -7,7 +7,7 @@ public class FileReadingComparison {
 
         long start, end;
 
-        // 1️⃣ FileReader (Character Stream)
+        // 1️ FileReader (Character Stream)
         try {
             FileReader fr = new FileReader(filePath);
             start = System.currentTimeMillis();
@@ -25,7 +25,7 @@ public class FileReadingComparison {
             System.out.println("FileReader Error");
         }
 
-        // 2️⃣ InputStreamReader (Byte to Character Stream)
+        // 2️ InputStreamReader (Byte to Character Stream)
         try {
             InputStreamReader isr =
                     new InputStreamReader(new FileInputStream(filePath));
