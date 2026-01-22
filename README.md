@@ -299,5 +299,70 @@
 
 ---
 
+### 🗓️  14 January 2026  
+*Focus:* Scenario-Based Programming + Stack Practice
+
+- ✈️ Solved *real-world scenario-based problems* such as *Flight Booking System* using Java  
+- 📚 Practiced and solved *more Stack-based problems* to strengthen understanding  
+- 🧠 Improved logical thinking by applying *data structures to practical scenarios*  
+- 🚀 Enhanced confidence in handling *problem statements with real-life context*
+
+---
+
+### 🗓️ 15 January 2026  
+*Focus:* Sorting Algorithms + Real-World Applications
+
+- 🔢 Studied and implemented *sorting algorithms* using Java  
+- 🏢 Applied *sorting techniques to real-world scenarios* for better understanding  
+- 📒 Started working on the *Address Book problem* and designed its basic structure  
+- 🚀 Improved confidence in solving *data-structure-driven scenario problems*
+
+---
+### 🗓️ 16 January 2026  
+*Focus:* Algorithm Runtime Analysis & Big-O Notation  
+📊 Understood runtime analysis with time & space complexity  
+📈 Learned Big-O including best, worst & average cases  
+⚙️ Explored practical Java code optimization guidelines  
+🚀 Improved analytical thinking for performance-focused coding  
+
+---
+
+### 🗓️ 17 January 2026  
+*Focus:*  Algorithm Analysis – Assignment Practice  
+
+🧠 Implemented concepts of runtime analysis through coding questions  
+📊 Solved time & space complexity–based assignment problems  
+📈 Applied Big-O (best, worst & average cases) in real questions  
+🚀 Strengthened problem-solving with performance-focused thinking  
+
+---
+### 🟦 WEEK 6 (DSA SCENARIO BASED AND COLLECTIONS PRACTICE)
+
+### 🗓️  19 January 2026  
+*Focus:*  Scenario-Based DSA Problem Solving  
+🌐 Solved BrowserBuddy using Doubly Linked List + Stack for tab history & restore  
+📦 Implemented ParcelTracker with Singly Linked List for delivery stage tracking  
+📝 Built ExamProctor using Stack + HashMap with functions for evaluation logic  
+🚀 Strengthened confidence in real-world, scenario-driven DSA applications  
+
+---
+### 🗓️  20 January 2026  
+*Focus:* OOP Polymorphism, Abstraction & Generics  
+
+🏦 Solved BankAccount Hierarchy using abstract classes, immutability & polymorphic fee calculation  
+👨‍💼 Implemented Employee Role Polymorphism with optimized bonus logic and caching  
+🧩 Studied Java Generics for type safety, reusability & performance  
+🎤 Participated in student review  and explained solutions
+
+---
+
+### 🗓️  21 January 2026  
+*Focus:* Java Generics – Conceptual & Problem Practice  
+📘 Studied core Java Generics concepts for type safety  
+🧪 Practiced Generics-based questions and assignments  
+⚙️ Worked with generic classes, methods & bounds  
+🚀 Improved confidence in applying Generics to problem-solving  
+
+━━━━━━━━━━━━━━━━━━━━━━━
 
 
