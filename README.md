@@ -363,6 +363,230 @@
 ⚙️ Worked with generic classes, methods & bounds  
 🚀 Improved confidence in applying Generics to problem-solving  
 
+---
+### 🟦 WEEK 4 (OOPS SCENARIO-BASED PRACTICE)
+
+### 🗓️ Day 1 – 5 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world OOPS scenario-based problems** using Java  
+- 🧱 Applied **abstraction, inheritance, encapsulation, and interfaces** in practical use cases  
+- 🔁 Strengthened understanding of **polymorphism** through dynamic method behavior  
+- 📌 Improved confidence in designing **structured and logic-driven Java programs**
+
 ━━━━━━━━━━━━━━━━━━━━━━━
 
+### 🗓️ Day 2 – 6 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world OOPS scenario-based problems** using Java  
+- 🧱 Applied **abstraction, inheritance, encapsulation, and interfaces** in practical use cases  
+- 🔁 Strengthened understanding of **polymorphism** through dynamic method behavior  
+- 📌 Improved confidence in designing **structured and logic-driven Java programs**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+ ### 🗓️ Day 3 – 7 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world OOPS scenario-based problems** using Java  
+- 🧱 Implemented **CRUD-based system designs** with proper class structure  
+- 🔁 Practiced **polymorphism and interface-driven logic** in practical scenarios  
+- 📌 Improved clarity in writing **clean, modular, and maintainable Java code**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 4 – 8 January 2026  
+**Focus:** Linked List & Review Session
+
+- 🧩 Learned **Linked List concepts** and solved multiple related questions  
+- 🧱 Implemented **Linked List operations** using Java (insertion, deletion, traversal)  
+- 🔁 Solved a few **scenario-based problems** to apply data structures with OOPS  
+- 📌 Attended a **review meeting** to discuss progress, logic, and improvements
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 5 – 9 January 2026  
+**Focus:** OOPS + CRUD Applications
+
+- 🏥 Hospital Patient Management System using OOPS & CRUD  
+- 🚗 Vehicle Rental Application with interfaces and inheritance  
+- ✈️ Flight Booking System using arrays, lists, and string operations  
+- 📌 Applied Encapsulation, Abstraction, Inheritance, Polymorphism
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 5 (OOPS SCENARIO-BASED AND DSA PRACTICE)
+
+### 🗓️ Day 1 – 12 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world, scenario-based OOPS problems** using Java  
+- 🧱 Implemented **abstraction, inheritance, encapsulation, and interfaces** in practical designs  
+- 🔁 Enhanced understanding of **polymorphism** through dynamic method execution  
+- 📌 Improved confidence in building **well-structured and logically sound Java applications**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 13 January 2026  
+**Focus:** Scenario-Based Programming + Data Structures
+
+- 🧩 Solved additional **real-world, scenario-based problems** using Java  
+- 📚 Implemented **Stack and Queue** to handle practical use cases  
+- 🗂️ Used **HashMap** for efficient data storage and retrieval  
+- 📌 Strengthened problem-solving skills by combining **OOPS with data structures**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 3 – 14 January 2026  
+**Focus:** Scenario-Based Programming + Stack Practice
+
+- ✈️ Solved **real-world scenario-based problems** such as **Flight Booking System** using Java  
+- 📚 Practiced and solved **more Stack-based problems** to strengthen understanding  
+- 🧠 Improved logical thinking by applying **data structures to practical scenarios**  
+- 🚀 Enhanced confidence in handling **problem statements with real-life context**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 4 – 15 January 2026  
+**Focus:** Sorting Algorithms + Real-World Applications
+
+- 🔢 Studied and implemented **sorting algorithms** using Java  
+- 🏢 Applied **sorting techniques to real-world scenarios** for better understanding  
+- 📒 Started working on the **Address Book problem** and designed its basic structure  
+- 🚀 Improved confidence in solving **data-structure-driven scenario problems**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 5 – 16 January 2026  
+**Focus:** Algorithm Runtime Analysis & Big-O Notation  
+📊 Understood runtime analysis with time & space complexity  
+📈 Learned Big-O including best, worst & average cases  
+⚙️ Explored practical Java code optimization guidelines  
+🚀 Improved analytical thinking for performance-focused coding  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 6 – 17 January 2026  
+**Focus:**  Algorithm Analysis – Assignment Practice  
+
+🧠 Implemented concepts of runtime analysis through coding questions  
+📊 Solved time & space complexity–based assignment problems  
+📈 Applied Big-O (best, worst & average cases) in real questions  
+🚀 Strengthened problem-solving with performance-focused thinking  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 6 (DSA SCENARIO BASED AND COLLECTIONS PRACTICE)
+
+### 🗓️ Day 1 – 19 January 2026  
+**Focus:**  Scenario-Based DSA Problem Solving  
+🌐 Solved *BrowserBuddy* using Doubly Linked List + Stack for tab history & restore  
+📦 Implemented *ParcelTracker* with Singly Linked List for delivery stage tracking  
+📝 Built *ExamProctor* using Stack + HashMap with functions for evaluation logic  
+🚀 Strengthened confidence in real-world, scenario-driven DSA applications  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 20 January 2026  
+**Focus:** OOP Polymorphism, Abstraction & Generics  
+
+🏦 Solved *BankAccount Hierarchy* using abstract classes, immutability & polymorphic fee calculation  
+👨‍💼 Implemented *Employee Role Polymorphism* with optimized bonus logic and caching  
+🧩 Studied Java Generics for type safety, reusability & performance  
+🎤 Participated in student review  and explained solutions
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 3 – 21 January 2026  
+**Focus:** Java Generics – Conceptual & Problem Practice  
+📘 Studied core Java Generics concepts for type safety  
+🧪 Practiced Generics-based questions and assignments  
+⚙️ Worked with generic classes, methods & bounds  
+🚀 Improved confidence in applying Generics to problem-solving  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 4 – 22 January 2026  
+**Focus:** Java Data Structures – Queue, HashMap & Singly Linked List  
+📘 Implemented SmartCheckout using Queue and HashMap for billing and inventory management  
+🧪 Practiced ParcelTracker using Singly Linked List for delivery stage tracking  
+⚙️ Applied safe null handling and dynamic updates in real-world data flow  
+🚀 Strengthened problem-solving skills through practical data structure scenarios
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 5 – 23 January 2026  
+**Focus:** Java I/O Streams – File Handling & Data Flow  
+📘 Studied core Java I/O Streams including byte and character streams  
+🧪 Practiced questions on reading from and writing to files  
+⚙️ Worked with File, FileInputStream, FileOutputStream, and Buffered streams  
+🚀 Improved understanding of efficient data handling and stream-based operations
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 5 (JAVA COLLECTIONS AND IO PRACTICE)
+
+### 🗓️ Day 1 – 27 January 2026  
+**Focus:** Java Exception Handling – Concepts & Practice  
+📘 Studied checked and unchecked exceptions with try-catch-finally  
+🧪 Practiced and submitted exception handling based questions  
+⚙️ Worked with custom exceptions, throw, and throws keywords  
+🚀 Improved confidence in writing robust and fault-tolerant Java code
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 28 January 2026  
+**Focus:** Java Regex & JUnit – Pattern Matching and Testing  
+📘 Studied regular expressions and JUnit fundamentals  
+🧪 Solved a scenario-based problems named *Lexical Twist* and *Flip Key*  
+⚙️ Applied regex for validation and JUnit for test case verification  
+🚀 Improved confidence in writing testable and reliable Java code
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 3 – 29 January 2026  
+**Focus:** Java Annotations & Reflection – Metadata and Runtime Processing  
+📘 Studied custom annotations and Java Reflection API  
+🧪 Solved a scenario-based problem named *FutureLogistics*  
+⚙️ Applied reflection to inspect annotations and invoke methods dynamically  
+🚀 Improved understanding of runtime behavior and advanced Java features
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 4 – 30 January 2026  
+**Focus:** CSV Data Handling – File Processing and Parsing  
+📘 Studied reading and writing CSV data using Java I/O  
+🧪 Solved problems related to parsing and processing CSV files  
+⚙️ Implemented data extraction, validation, and storage logic  
+🚀 Improved confidence in handling structured file-based data
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 6 (JAVA 8 FEATURES PRACTICE)
+### 🗓️ Day 1 – 2 February 2026  
+**Focus:** Java Lambda Expressions – Functional Programming Basics  
+📘 Studied and applied lambda expressions in Java  
+🧪 Solved a scenario-based problem named *AEROVIRGIL*  
+⚙️ Implemented functional interfaces and concise logic using lambdas  
+🚀 Improved confidence in writing clean and expressive Java code
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 3 February 2026  
+**Focus:** JSON File Handling – Advanced Parsing and Processing  
+📘 Studied and submitted extended questions on JSON file handling  
+🧪 Solved a scenario-based problem named *Stream Buzz*  
+⚙️ Implemented JSON reading, writing, and data mapping logic  
+🚀 Improved confidence in handling structured JSON data in Java
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 3 – 4 February 2026  
+**Focus:** Java Stream API – Functional Data Processing  
+📘 Studied core Stream API concepts including map, filter, and reduce  
+🧪 Solved problems using streams on collections  
+⚙️ Applied method references and stream pipelines effectively  
+🚀 Improved confidence in writing concise and efficient stream-based code
+`
 
