@@ -74,7 +74,7 @@ PART 4 — RUN SONARQUBE ANALYSIS FOR PROJECT
 
 4. Wait until build shows BUILD SUCCESS.
 
-5. Link of the project: https://github.com/TomarAbhin/BridgeLabz-Training/tree/dbms-practice/dbms-practice/gcr-codebase/health-clinic-app/Health_Clinic_App
+5. Link of the project: https://github.com/Ankitchaudhary08/BridgeLabz-Training/tree/dbms-practice/dbms-practice/gcr-codebase/health-clinic-app/Health_Clinic_App
 
 
 PART 5 — VIEW ANALYSIS RESULT
