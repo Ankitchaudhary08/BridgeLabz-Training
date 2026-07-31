@@ -1,12 +1,12 @@
 # 📘 Day 1 - DBMS Fundamentals & RDBMS Basics
 
-## 📖 Overview
+##  Overview
 
 On Day 1, I learned the fundamentals of Database Management Systems (DBMS) and Relational Database Management Systems (RDBMS). I explored how databases are used to store and manage data efficiently and practiced basic SQL commands using MySQL Workbench.
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - What is Data, Database, and DBMS
 - File System vs DBMS
@@ -25,7 +25,7 @@ On Day 1, I learned the fundamentals of Database Management Systems (DBMS) and R
 
 ---
 
-## 💻 Practical Work
+##  Practical Work
 
 ### 🏥 Hospital Database
 - Created a Hospital database.
@@ -34,7 +34,7 @@ On Day 1, I learned the fundamentals of Database Management Systems (DBMS) and R
 - Modified table structure using `ALTER TABLE`.
 - Practiced `RENAME`, `DROP`, and `TRUNCATE` commands.
 
-### 🎓 College Database
+###  College Database
 - Created `students`, `enrollments`, and `courses` tables.
 - Implemented Primary Key, Foreign Key, and Composite Key.
 - Practiced SQL Joins:
@@ -45,7 +45,7 @@ On Day 1, I learned the fundamentals of Database Management Systems (DBMS) and R
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - MySQL
 - MySQL Workbench
@@ -55,7 +55,7 @@ On Day 1, I learned the fundamentals of Database Management Systems (DBMS) and R
 
 ---
 
-## 📂 Files
+##  Files
 
 ```
 Day-1/
@@ -65,7 +65,7 @@ Day-1/
 
 ---
 
-## 🎯 Key Learnings
+##  Key Learnings
 
 - Understood the basics of DBMS and RDBMS.
 - Learned the difference between SQL and NoSQL.
