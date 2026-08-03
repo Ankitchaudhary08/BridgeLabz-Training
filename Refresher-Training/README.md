@@ -82,7 +82,7 @@ Day-1/
 Successfully completed the Day 1 DBMS practice by building sample databases and executing essential SQL commands. This provided a strong foundation for learning advanced database concepts in the upcoming sessions.
 
 
-
+---
 
 # 📘 Day 2 - Database Design & Optimization
 
