@@ -81,3 +81,86 @@ Day-1/
 
 Successfully completed the Day 1 DBMS practice by building sample databases and executing essential SQL commands. This provided a strong foundation for learning advanced database concepts in the upcoming sessions.
 
+
+
+
+# 📘 Day 2 - Database Design & Optimization
+
+## Overview
+
+On Day 2, I learned how to design efficient and well-structured databases using Entity Relationship (ER) Diagrams, Database Indexing, and Database Normalization. I understood how proper database design improves data consistency, minimizes redundancy, and enhances query performance.
+
+## Topics Covered
+
+### 1. Entity Relationship (ER) Diagram
+
+* Introduction to ER Diagrams
+* Entities
+* Attributes
+* Relationships
+* Cardinality
+* Primary Key
+* Foreign Key
+* Weak Entity
+* ER Diagram Design Principles
+
+### 2. Database Indexing
+
+* What is an Index?
+* Purpose of Indexing
+* Clustered Index
+* Non-Clustered Index
+* Advantages of Indexing
+* Disadvantages of Over-Indexing
+* Impact of Indexing on Query Performance
+
+### 3. Database Normalization
+
+* First Normal Form (1NF)
+* Second Normal Form (2NF)
+* Third Normal Form (3NF)
+* Boyce-Codd Normal Form (BCNF)
+* Eliminating Data Redundancy
+* Improving Database Consistency
+
+## Practical Work
+
+### 🏥 Health Clinic Database
+
+* Designed the database structure using an ER Diagram.
+* Identified entities, attributes, and relationships.
+* Applied Primary Key and Foreign Key constraints.
+* Implemented normalization up to BCNF.
+* Created SQL scripts for the Health Clinic database.
+* Analyzed where indexes should be used to optimize query performance.
+
+## Technologies Used
+
+* MySQL
+* MySQL Workbench
+* SQL
+* Visual Studio Code
+* Git & GitHub
+
+## Files
+
+```text
+Day-2/
+├── Health_Clinic.sql
+└── README.md
+```
+
+## Key Learnings
+
+* Understood the importance of database design before implementation.
+* Learned to create ER diagrams for real-world applications.
+* Explored different relationship types and cardinality.
+* Understood the role of indexing in improving query performance.
+* Learned when indexes should and should not be used.
+* Applied database normalization (1NF, 2NF, 3NF, and BCNF).
+* Designed efficient and optimized relational databases.
+
+## 🚀 Outcome
+
+Successfully completed Day 2 by learning database design principles, implementing normalization techniques, and understanding indexing concepts. This strengthened my foundation in designing scalable, efficient, and optimized relational databases for real-world applications.
+
