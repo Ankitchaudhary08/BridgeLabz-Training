@@ -164,3 +164,96 @@ Day-2/
 
 Successfully completed Day 2 by learning database design principles, implementing normalization techniques, and understanding indexing concepts. This strengthened my foundation in designing scalable, efficient, and optimized relational databases for real-world applications.
 
+
+# 📘 Day 3 - SQL Joins, Stored Procedures & Triggers
+
+## Overview
+
+On Day 3, I learned advanced SQL concepts including SQL Joins, Stored Procedures, and Triggers using MySQL. I practiced retrieving data from multiple related tables, creating reusable database procedures with different parameter types, handling errors, and automating database operations using triggers in the Health Clinic database.
+
+---
+
+## Topics Covered
+
+### 1. SQL Joins
+
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL OUTER JOIN (using UNION)
+- SELF JOIN
+- CROSS JOIN
+- Multiple Table Join
+
+### 2. Stored Procedures
+
+- Why Stored Procedures
+- Creating Stored Procedures
+- Calling Stored Procedures
+- IN Parameters
+- OUT Parameters
+- INOUT Parameters
+- Error Handling
+
+### 3. Triggers
+
+- BEFORE INSERT
+- AFTER INSERT
+- BEFORE UPDATE
+- AFTER UPDATE
+- BEFORE DELETE
+- AFTER DELETE
+
+---
+
+## Practical Work
+
+### 🏥 Health Clinic Database
+
+- Performed different types of SQL Joins on multiple related tables.
+- Retrieved patient, doctor, appointment, billing, and specialization details using multi-table joins.
+- Created Stored Procedures to automate common database operations.
+- Implemented procedures using IN, OUT, and INOUT parameters.
+- Added error handling using transactions and exception handlers.
+- Created Triggers to automatically validate data, maintain audit logs, and enforce business rules.
+- Practiced BEFORE and AFTER triggers for INSERT, UPDATE, and DELETE operations.
+
+---
+
+## Technologies Used
+
+- MySQL
+- MySQL Workbench
+- SQL
+- Visual Studio Code
+- Git & GitHub
+
+---
+
+## Files
+
+```text
+Day-3/
+├── Health_Clinic_join.sql
+└── README.md
+```
+
+---
+
+## Key Learnings
+
+- Understood how different SQL Joins combine data from multiple related tables.
+- Learned when to use INNER, LEFT, RIGHT, FULL OUTER, SELF, and CROSS JOIN.
+- Created reusable Stored Procedures for database operations.
+- Worked with IN, OUT, and INOUT parameters.
+- Implemented error handling using transactions and SQL exception handlers.
+- Automated database operations using Triggers.
+- Learned to maintain data integrity and audit logs using BEFORE and AFTER triggers.
+- Gained hands-on experience building advanced SQL solutions using the Health Clinic database.
+
+---
+
+## 🚀 Outcome
+
+Successfully completed Day 3 by implementing advanced SQL concepts including SQL Joins, Stored Procedures, and Triggers. Built reusable database logic, automated data validation and auditing, and strengthened practical SQL skills required for developing real-world database applications.
+
