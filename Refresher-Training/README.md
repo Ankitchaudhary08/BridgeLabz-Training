@@ -257,3 +257,82 @@ Day-3/
 
 Successfully completed Day 3 by implementing advanced SQL concepts including SQL Joins, Stored Procedures, and Triggers. Built reusable database logic, automated data validation and auditing, and strengthened practical SQL skills required for developing real-world database applications.
 
+# 📘 Day 4 - Implement CRUD Operations in Health Clinic App
+
+## Overview
+
+On Day 4, I worked on the **Health Clinic Application** by testing different modules and understanding how they interact with each other. I performed CRUD operations, booked appointments, generated bills, and explored important backend concepts like layered architecture, DAO, transactions, and connection pooling.
+
+---
+
+## Topics Covered
+
+- Patient CRUD Operations
+- Doctor & Specialization Management
+- Appointment Booking
+- Billing Module
+- Visit History
+- Layered Architecture
+- DAO Pattern
+- Connection Pooling
+- Transactions
+- Foreign Keys
+
+---
+
+## Practical Work
+
+### 🏥 Health Clinic Application
+
+- Tested Patient CRUD operations (Add, List, View, Update).
+- Added doctors and linked them with specializations.
+- Created specializations such as Cardiology and Dermatology.
+- Booked appointments using valid Patient ID and Doctor ID.
+- Completed appointments, which automatically generated Billing and Visit History records.
+- Viewed bills, checked bills for specific appointments, and marked bills as **Paid**.
+
+---
+
+## Technologies Used
+
+- Java
+- JDBC
+- MySQL
+- HikariCP
+- Maven
+- Git & GitHub
+
+---
+
+## Files
+
+```text
+Day-4/
+├── HealthClinicApp/
+└── README.md
+```
+
+---
+
+## Key Learnings
+
+- Understood the layered architecture (**UI → Service → DAO → Database**).
+- Learned why DAO uses an interface and implementation.
+- Explored how connection pooling improves database performance.
+- Learned how transactions maintain data consistency during multiple database operations.
+- Understood the importance of foreign keys in maintaining valid relationships between tables.
+
+---
+
+## 🚀 Outcome
+
+Successfully completed Day 4 by testing the core modules of the Health Clinic Application and gaining practical experience with CRUD operations, appointment management, billing workflow, layered architecture, transactions, and database relationships.
+
+---
+
+## 🎯 Next Steps
+
+- Push the project to GitHub.
+- Test Delete operations.
+- Verify Visit History module.
+- Perform complete end-to-end testing.
