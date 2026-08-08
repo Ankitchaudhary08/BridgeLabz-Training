@@ -330,6 +330,115 @@ Successfully completed Day 4 by testing the core modules of the Health Clinic Ap
 
 ---
 
+# Day 5 - Java Servlet Fundamentals
+
+## 📚 Overview
+
+This module covers the fundamentals of **Java Servlets**, **Apache Tomcat**, **Maven Web Applications**, **HTTP request handling**, and **HTML form integration**. A **Greeting Application** was built to understand the complete request-response lifecycle.
+
+---
+
+## 📌 Topics Covered
+
+### Java Servlet Basics
+
+- Introduction to Java Servlets
+- Role of Servlets in Java Web Applications
+- Servlet Architecture
+- Servlet Life Cycle
+
+### Apache Tomcat
+
+- Installing and Configuring Apache Tomcat 10
+- Setting up `JAVA_HOME`
+- Deploying WAR Files
+- Understanding the `webapps` Directory
+- Running Applications on Tomcat
+
+### Maven Web Application
+
+- Creating a Maven Web Project
+- Understanding Project Structure
+- Configuring `pom.xml`
+- WAR Packaging
+- Maven Build Process
+
+### Servlet Development
+
+- Creating a Servlet using `HttpServlet`
+- Using `@WebServlet`
+- Working with `HttpServletRequest`
+- Working with `HttpServletResponse`
+- Using `PrintWriter`
+
+### HTTP Methods
+
+- `doGet()`
+- `doPost()`
+- GET vs POST
+- Using `request.getParameter()`
+
+### HTML Form Integration
+
+- Creating HTML Forms
+- GET & POST Form Submission
+- Connecting HTML Forms with Servlets
+- Processing User Input
+
+---
+
+## 🚀 Project
+
+### Greeting Application
+
+Built a simple Greeting Application to understand servlet-based web application development.
+
+**Features:**
+
+- HTML Form
+- Servlet Mapping
+- GET Request Handling
+- POST Request Handling
+- Dynamic Response Generation
+
+---
+
+## 🛠️ Troubleshooting & Debugging
+
+- Fixed `JAVA_HOME` Configuration Issues
+- Resolved Tomcat Deployment Problems
+- Fixed HTTP 404 Errors
+- Fixed HTTP 405 Errors
+- Understood WAR Deployment
+- Rebuilt & Redeployed Maven Projects
+
+---
+
+## 💻 Technologies Used
+
+| Technology | Version / Purpose |
+|------------|-------------------|
+| Java | 21 |
+| Jakarta Servlet API | 6 |
+| Apache Tomcat | 10 |
+| Maven | Build & Dependency Management |
+| HTML | Form & UI |
+| IntelliJ IDEA | Development Environment |
+
+---
+
+## 🎯 Key Concepts Learned
+
+- Java Servlet Fundamentals
+- Request-Response Cycle
+- Servlet Mapping
+- GET vs POST
+- Form Handling
+- Tomcat Configuration
+- Maven WAR Packaging
+- Web Application Deployment
+- Basic Web Application Debugging
+
 ## 🎯 Next Steps
 
 - Push the project to GitHub.
