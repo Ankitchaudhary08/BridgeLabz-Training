@@ -445,3 +445,88 @@ Built a simple Greeting Application to understand servlet-based web application 
 - Test Delete operations.
 - Verify Visit History module.
 - Perform complete end-to-end testing.
+
+  # Day 6 - CRUD Operation with Spring Boot
+
+## 📚 Overview
+
+On Day 6, I implemented **CRUD (Create, Read, Update, Delete) operations** in the Greeting Application using **Spring Boot, Spring Data JPA, Hibernate, and MySQL**.
+
+The application follows a layered architecture with **Controller, Service, Repository, Entity, and DTO** layers to understand how data flows between the client and database.
+
+---
+
+## 📌 Topics Covered
+
+### Spring Boot CRUD
+
+- Understanding CRUD operations
+- Creating REST APIs
+- Handling HTTP requests
+- Working with Spring Boot layers
+- Dependency Injection
+- Constructor-based Dependency Injection
+
+### Spring Data JPA
+
+- Creating Repository interfaces
+- Extending `JpaRepository`
+- Using predefined CRUD methods
+- `save()`
+- `findAll()`
+- `findById()`
+- `delete()`
+
+### Hibernate & MySQL
+
+- Connecting Spring Boot with MySQL
+- Database configuration
+- Automatic table creation using Hibernate
+- Using `spring.jpa.hibernate.ddl-auto=update`
+- Understanding JPA Entity mapping
+
+### Layered Architecture
+
+- Controller Layer
+- Service Layer
+- Repository Layer
+- Entity Layer
+- DTO Layer
+- Interface and Implementation
+
+---
+
+## 🚀 Project
+
+### Greeting Application - CRUD
+
+Enhanced the Greeting Application by implementing complete CRUD functionality for greeting messages.
+
+### CRUD Operations
+
+| Operation | HTTP Method | Purpose |
+|-----------|-------------|---------|
+| Create | `POST` | Create a new greeting |
+| Read All | `GET` | Get all greetings |
+| Read By ID | `GET` | Get a greeting by ID |
+| Update | `PUT` | Update an existing greeting |
+| Delete | `DELETE` | Delete a greeting |
+
+---
+
+## 🏗️ Project Architecture
+
+```text
+Client
+   ↓
+Controller
+   ↓
+Service Interface
+   ↓
+Service Implementation
+   ↓
+Repository
+   ↓
+Hibernate / JPA
+   ↓
+MySQL Database
