@@ -530,3 +530,50 @@ Repository
 Hibernate / JPA
    ↓
 MySQL Database
+
+
+# Day 7 - Spring REST API & Request Handling
+
+## Start Developing ContactApp
+
+### Topics Covered
+
+- Spring REST API
+- RESTful API Endpoints
+- HTTP Methods
+- Request Handling in Spring Boot
+- `@RestController`
+- `@RequestMapping`
+- `@GetMapping`
+- `@PostMapping`
+- `@PutMapping`
+- `@DeleteMapping`
+- `@RequestBody`
+- `@PathVariable`
+- `@RequestParam`
+- Response Handling
+- H2 In-Memory Database Basics
+- Distributed Architecture Overview
+
+---
+
+## 1. Spring REST API
+
+A REST API allows different applications to communicate with each other over HTTP.
+
+Spring Boot provides annotations that make it easy to create RESTful APIs.
+
+### Basic Flow
+
+```text
+Client
+   ↓
+REST API
+   ↓
+Controller
+   ↓
+Service
+   ↓
+Repository
+   ↓
+Database
