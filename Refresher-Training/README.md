@@ -562,3 +562,25 @@ Service
 Repository
    ↓
 Database
+
+
+# Day 8 - Contact App Enhancement
+
+### Topics Covered
+- Completed Contact App
+- Added `@Valid` request validation
+- Added `@NotBlank`, `@Size`, and `@Pattern`
+- Implemented centralized exception handling
+- Created `ContactNotFoundException`
+- Added `@RestControllerAdvice` and `@ExceptionHandler`
+- Integrated H2 Database and H2 Console
+- Added DTO Layer (Request DTO & Response DTO)
+- Tested APIs using Postman
+
+### Practice
+- Tested Create, Get, and Update Contact APIs
+- Tested validation and error handling
+- Practiced DTO → Entity and Entity → DTO conversion
+
+### Status
+✅ Day 8 Completed
