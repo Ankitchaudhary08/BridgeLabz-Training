@@ -514,22 +514,7 @@ Enhanced the Greeting Application by implementing complete CRUD functionality fo
 
 ---
 
-## 🏗️ Project Architecture
 
-```text
-Client
-   ↓
-Controller
-   ↓
-Service Interface
-   ↓
-Service Implementation
-   ↓
-Repository
-   ↓
-Hibernate / JPA
-   ↓
-MySQL Database
 
 
 # Day 7 - Spring REST API & Request Handling
