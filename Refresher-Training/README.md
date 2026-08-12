@@ -548,20 +548,7 @@ A REST API allows different applications to communicate with each other over HTT
 
 Spring Boot provides annotations that make it easy to create RESTful APIs.
 
-### Basic Flow
 
-```text
-Client
-   ↓
-REST API
-   ↓
-Controller
-   ↓
-Service
-   ↓
-Repository
-   ↓
-Database
 
 
 # Day 8 - Contact App Enhancement
