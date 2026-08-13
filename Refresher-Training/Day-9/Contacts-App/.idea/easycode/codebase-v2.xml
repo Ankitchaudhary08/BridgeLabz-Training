@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/Contacts-App/src/main/java/com/ankit/Contacts_App/Controller/Controller.java;C:/Users/Ankit/Downloads/Contacts-App/Contacts-App/src/main/java/com/ankit/Contacts_App/Entity/Contact.java;C:/Users/Ankit/Downloads/Contacts-App/Contacts-App/src/main/java/com/ankit/Contacts_App/Exception/ContactNotFoundException.java;C:/Users/Ankit/Downloads/Contacts-App/Contacts-App/src/main/java/com/ankit/Contacts_App/Exception/GlobalExceptionalHandler.java;C:/Users/Ankit/Downloads/Contacts-App/Contacts-App/src/main/java/com/ankit/Contacts_App/Repository/UserRepository.java;C:/Users/Ankit/Downloads/Contacts-App/Contacts-App/src/main/java/com/ankit/Contacts_App/Service/UserService.java;C:/Users/Ankit/Downloads/Contacts-App/Contacts-App/src/main/java/com/ankit/Contacts_App/ContactsAppApplication.java;C:/Users/Ankit/Downloads/Contacts-App/Contacts-App/src/test/java/com/ankit/Contacts_App/ContactsAppApplicationTests.java;C:/Users/Ankit/Downloads/Contacts-App/Contacts-App/HELP.md" />
+  </component>
+</project>
