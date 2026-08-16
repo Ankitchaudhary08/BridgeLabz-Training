@@ -571,3 +571,142 @@ Spring Boot provides annotations that make it easy to create RESTful APIs.
 
 ### Status
 ✅ Day 8 Completed
+
+
+# Day 9 – Spring Boot, Controllers & REST APIs
+
+## Topics Covered
+
+### Spring Boot Auto-Configuration
+
+- Understood how Spring Boot automatically configures beans and components based on the dependencies present in the project.
+- Reduced the need for manual XML/configuration.
+- Understood the role of `@SpringBootApplication`, which combines:
+  - `@Configuration`
+  - `@EnableAutoConfiguration`
+  - `@ComponentScan`
+
+### Spring Boot Starters
+
+- Studied how Spring Boot starters simplify dependency management.
+- Worked with `spring-boot-starter-web` for web and REST API development.
+- Understood that starters provide the commonly required dependencies together.
+
+### Embedded Server
+
+- Studied the concept of an embedded server in Spring Boot.
+- Understood how **Tomcat** is embedded and starts automatically with the application.
+- No separate server installation or WAR deployment is required for running the application.
+
+### Spring Controller
+
+- Worked with `@Controller` and `@RestController`.
+- Understood how controllers receive HTTP requests and return responses.
+- Used `@RequestMapping` to define common URL mappings.
+
+### REST API Basics
+
+- Implemented basic REST endpoints using:
+  - `@GetMapping`
+  - `@PostMapping`
+  - `@PutMapping`
+  - `@PatchMapping`
+  - `@DeleteMapping`
+- Understood how HTTP methods are mapped to CRUD operations.
+
+### Request Handling
+
+- Practiced handling request data using:
+  - `@RequestBody`
+  - `@PathVariable`
+  - `@RequestParam`
+- Understood how JSON data is received and mapped to Java objects using `@RequestBody`.
+
+## Practical Work
+
+- Created Spring Boot REST controllers.
+- Created API endpoints for handling HTTP requests.
+- Tested REST APIs using Postman.
+- Verified request and response flow between client and Spring Boot application.
+
+## Key Takeaways
+
+- Auto-configuration reduces manual configuration.
+- Starters simplify dependency management.
+- Embedded Tomcat allows Spring Boot applications to run independently.
+- Controllers handle incoming HTTP requests.
+- REST APIs use HTTP methods for performing CRUD operations.
+- `@RequestBody`, `@PathVariable`, and `@RequestParam` are used for receiving different types of request data.
+
+---
+
+# Day 10 – Backend with Spring Boot
+
+## Topics Covered
+
+### 1. Dependency Injection in Spring Boot
+
+- Understood the concept of **Dependency Injection (DI)** and **Inversion of Control (IoC)**.
+- Learned how Spring creates and manages objects as **Spring Beans**.
+- Understood how `@Autowired` performs dependency injection.
+- Learned how Spring identifies the required bean using **type matching**.
+- Studied `@Primary` and `@Qualifier` for resolving multiple beans of the same type.
+- Explored different **Spring Bean scopes**, including:
+  - Singleton
+  - Prototype
+
+### 2. Spring JDBC
+
+- Learned the basics of **JDBC (Java Database Connectivity)**.
+- Understood how JDBC enables Java applications to communicate with databases.
+- Learned the role of a **JDBC Driver** in database communication.
+- Studied **Spring JDBC** and the use of `JdbcTemplate`.
+- Understood how `JdbcTemplate` reduces JDBC boilerplate code and manages database resources.
+
+### 3. HikariCP Connection Pool
+
+- Learned about **HikariCP**, the connection pooling mechanism commonly used by Spring Boot.
+- Understood how connections are reused instead of creating a new connection for every request.
+- Learned how `DataSource`, HikariCP, JDBC Driver, and MySQL work together.
+
+### 4. H2 Database Integration
+
+- Configured and integrated the **H2 in-memory database** with the Spring Boot application.
+- Learned how to configure the H2 database using `application.properties`.
+- Used the H2 Console to view and execute SQL queries.
+- Tested CRUD operations using the H2 database.
+
+### 5. JPA Entity Lifecycle
+
+- Learned about JPA lifecycle callback annotations:
+  - `@PrePersist` – executes before a new entity is inserted.
+  - `@PreUpdate` – executes before an existing entity is updated.
+- Used lifecycle callbacks for handling automatic entity-related operations such as timestamps.
+
+### 6. Entity Relationships & Mapping
+
+- Worked with `@OneToMany` and `@ManyToOne` relationships.
+- Understood the use of `mappedBy`.
+- Learned about `cascade` and `orphanRemoval`.
+- Created separate **Mapper classes** for converting:
+  - `RequestDTO → Entity`
+  - `Entity → ResponseDTO`
+
+## Practical Implementation
+
+Implemented and enhanced the **Contact Application** backend using Spring Boot.
+
+The application included:
+
+- Dependency Injection using Spring Beans
+- DTO-to-Entity and Entity-to-DTO mapping
+- CRUD operations
+- H2 database integration
+- JPA/Hibernate entity relationships
+- Spring JDBC concepts
+- Database connection pooling with HikariCP
+- JPA lifecycle callbacks
+
+## Key Learnings
+
+By the end of Day 10, I understood how Spring Boot manages dependencies, connects applications with databases, manages database connections efficiently, handles entity lifecycle events, and performs object mapping.
